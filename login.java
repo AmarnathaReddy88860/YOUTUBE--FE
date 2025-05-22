@@ -1,2 +1,2 @@
 This is a login page
-printf("login")
+printf("Welcome")
